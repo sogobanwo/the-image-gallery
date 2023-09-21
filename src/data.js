@@ -1,5 +1,5 @@
-import pics1 from "./ImageResources/Banwo-1.jpeg";
-import pics2 from "./ImageResources/Banwo-2.jpeg";
+import pics1 from "./ImageResources/Banwo-1.jpg";
+import pics2 from "./ImageResources/Banwo-2.jpg";
 import pics3 from "./ImageResources/Banwo-3.jpg";
 import pics4 from "./ImageResources/Banwo-4.jpg";
 import pics5 from "./ImageResources/Banwo-5.jpg";
